@@ -13,4 +13,7 @@ Edit File for cmd commit
 
 МОжет из-за смены юзера командой $ git config --global user.name " Aleksandr Pletnev"
  хер его знает 
+
+
+ Победили ) 
  
